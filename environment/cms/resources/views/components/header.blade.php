@@ -4,7 +4,7 @@
         <header>
             <div class="logo">
                 <a href="/">
-                    <img src="{{ asset('images/inputlink_logo2.png') }}" alt="Inputlink Logo">
+                    <img src="{{ asset('environment/cms/public/images/inputlink_logo2.png') }}" alt="Inputlink Logo">
                 </a>
             </div>
     
